@@ -1,6 +1,6 @@
 # Euthanasia
 
-> ⚠️ **Use at own risk** discontinued program, I no longer intend to make updates to it, still functional, but possibly detectable by VGK.
+> ⚠️ **Use at own risk:** discontinued program, I no longer intend to make updates to it, still functional, but possibly detectable by VGK.
 
 **Euthanasia** is a program developed to be used alongside the game *Valorant*, allowing temporary skin changer while the program is active.
 

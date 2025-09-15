@@ -41,6 +41,12 @@
 
 ---
 
+## Source-Code
+
+As mentioned several times, this project is intended for educational and experimental purposes. Therefore, we decided not to make the source code publicly available to prevent its use for commercial purposes, which could constitute a misuse of the project. This decision also allows us to further explore the field of reverse engineering and its potential applications beyond our initial expectations.
+
+---
+
 ## Notes
 
 This program was created for experimental and educational purposes. Using it on official servers may result in bans or other penalties.

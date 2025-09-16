@@ -36,7 +36,7 @@
 
 ## Authors
 
-* **Ally**
+* **Alysson Tavares**
 * **Jack**
 
 ---
